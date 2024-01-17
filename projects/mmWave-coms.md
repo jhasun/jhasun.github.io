@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: https://manoa.hawaii.edu/uh-vip/wp-content/uploads/monet.png
-title: "UH Manoa Millimeter-Wave Communication Systems"
-date: 2023
+title: "UH Manoa Monet"
+date: Fall 2022
 published: true
 labels:
   - Engineering
@@ -11,14 +11,8 @@ labels:
 summary: "A team based project to design advanced communications systems and radar."
 ---
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Monet is a project team based out of the University of Hawai'i at Manoa, aiming to design a millimeter-wave communication system with integrated radar sensing capabilities to allow applications including autonomous vehicles. Since the project is run by the University, both undergraduate students and graduate students worked alongside under the supervision of a professor, who in this case was Professor Yao Zheng.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+As an undergraduate at the time, I worked with other undergraduates to assist one of the graduate students design his portion of the project. My contribution was designing and running simulations of random traffic scenarios along Dole Street using SUMO, an open source software for simulating urban traffic. Throughout the Fall semester I designed multiple simulations, which assisted in the graduate students progress in finding optimal spots to place antennas to test antenna-to-car communications along Dole.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
-
-Here is some example code to illustrate Simple Schema use:
-
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
- 
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+Through this project I was able to gain experience using the SUMO software to design and implement different simulations of traffic. I was also able to develop stronger teamwork skills, specifically when working in the techincal field.
