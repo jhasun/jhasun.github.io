@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://manoa.hawaii.edu/uh-vip/wp-content/uploads/monet.png
+image: img/monet.png
 title: "UH Manoa Monet"
 date: Fall 2022
 published: true
