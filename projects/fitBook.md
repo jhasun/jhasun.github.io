@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: 
-title: "project "
+title: "fitBook"
 date: 2024
 published: true
 labels:
