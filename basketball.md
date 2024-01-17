@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/vacay/vacay-square.png
-title: "Animal Farm"
+title: "Animal Far"
 date: 2023
 published: true
 labels:
