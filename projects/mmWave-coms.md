@@ -1,14 +1,14 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: https://manoa.hawaii.edu/uh-vip/wp-content/uploads/monet.png
 title: "UH Manoa Millimeter-Wave Communication Systems"
 date: 2023
 published: true
 labels:
   - Engineering
   - MIMO
-summary: "A database housing different animals and their associated properties."
+summary: "A team based project to design advanced communications systems and radar."
 ---
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
