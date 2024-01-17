@@ -18,5 +18,3 @@ Included in this application are tools such as a notebook to keep track of worko
 FitBook is implemented using Swift, a general purpose programming language and developer tool created by Apple. Throught his project I was able to gain experience in app development, the Software Development Life Cycle, and UI/UX design.
 
 Below is a snippet of code used:
-
-{% gist %}
