@@ -17,8 +17,7 @@
   --tf-footer-bg-color: var(--bs-gray-200);
   --tf-projects-bg-color: var(--bs-gray-100);
 }
-h1,h2,h3,h4 {
-  color: var(--tf-maroon1);
+
 }
 
 /* Format social media icons */
