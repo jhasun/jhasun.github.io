@@ -13,7 +13,7 @@
   --tf-pill-bg: var(--tf-maroon3);
   --tf-icon-fill: var(--tf-maroon2);
   --tf-icon-hover: var(--tf-maroon1);
-  --tf-page-bg-color: var(--tf-maroon3);
+  --tf-page-bg-color: var(--bs-white);
   --tf-footer-bg-color: var(--tf-maroon2);
   --tf-projects-bg-color: var(--tf-maroon3);
 }
