@@ -24,7 +24,7 @@ h1,h2,h3,h4 {
 /* Format social media icons */
 .tf-social {
   display: inline-block;
-  fill: var(--tf-icon-fill);
+  fill: var(--tf-maroon1);
   height: 1.5em;
   vertical-align: -.1em;
   width: 1.5em;
@@ -32,7 +32,7 @@ h1,h2,h3,h4 {
 }
 
 .tf-social:hover {
-  fill: var(--tf-icon-hover);
+  fill: var(--tf-maroon1);
 }
 
 a {
@@ -40,13 +40,13 @@ a {
 }
 
 .rounded-circle {
-  border-color: var(--tf-maroon2);
+  border-color: var(--tf-maroon1);
   border-style: solid;
   border-width: 1px;
 }
 
 /* Simplify the styling of the bottom of Essay cards. */
 .card-footer {
-  background-color: var(--bs-white);
+  background-color: var(--tf-maroon2);
   border-top: none;
 }
