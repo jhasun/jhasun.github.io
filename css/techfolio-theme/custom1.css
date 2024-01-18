@@ -1,5 +1,3 @@
-/* Default theme. Simple, yet elegant. */
-
 /* Use Open Sans as the default sans serif font. */
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700|Source+Code+Pro:300,400,500,700");
 
@@ -50,6 +48,6 @@ a {
 
 /* Simplify the styling of the bottom of Essay cards. */
 .card-footer {
-  background-color: var(--tf-black);
+  background-color: var(--bs-white);
   border-top: none;
 }
