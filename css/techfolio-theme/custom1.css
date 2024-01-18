@@ -13,10 +13,10 @@
   --bs-link-color: var(--bs-blue);
   --tf-pill-bg: var(--bs-gray);
   --tf-icon-fill: var(--bs-gray);
-  --tf-icon-hover: var(--bs-gray-500);
+  --tf-icon-hover: var(--tf-maroon2);
   --tf-page-bg-color: var(--bs-white);
   --tf-footer-bg-color: var(--bs-gray-200);
-  --tf-projects-bg-color: var(--bs-gray-100);
+  --tf-projects-bg-color: var(--tf-maroon1);
 }
 
 h1,h2,h3,h4,h5 {
