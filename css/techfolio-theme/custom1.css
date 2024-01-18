@@ -5,6 +5,9 @@
 
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
+  --tf-maroon1: #7D0A0A;
+  --tf-maroon2: #820300;
+  --tf-maroon3: #750E21;
   --bs-font-sans-serif: "Open Sans", sans-serif;
   --bs-link-color: var(--bs-blue);
   --tf-pill-bg: var(--bs-gray);
@@ -13,6 +16,9 @@
   --tf-page-bg-color: var(--bs-white);
   --tf-footer-bg-color: var(--bs-gray-200);
   --tf-projects-bg-color: var(--bs-gray-100);
+}
+h1,h2,h3,h4 {
+  color: var(--tf-maroon1);
 }
 
 /* Format social media icons */
