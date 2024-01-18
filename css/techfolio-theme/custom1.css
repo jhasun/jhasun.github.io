@@ -8,7 +8,7 @@
   --tf-cream: #FEFBEA;
   --bs-font-sans-serif: "Open Sans", sans-serif;
   --bs-link-color: var(--tf-maroon2);
-  --tf-pill-bg: var(--tf-cream);
+  --tf-pill-bg: var(--tf-maroon2);
   --tf-icon-fill: var(--bs-gray);
   --tf-icon-hover: var(--tf-maroon2);
   --tf-page-bg-color: var(--bs-white);
