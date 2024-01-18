@@ -18,11 +18,11 @@
   --tf-projects-bg-color: var(--tf-black);
 }
 
-h1,h2,h4,h5 {
+h1,h2,h3,h5 {
   color: var(--tf-maroon1);
 }
 
-h3 {
+h4 {
   color: var(--tf-white);
 }
 
@@ -52,6 +52,6 @@ a {
 
 /* Simplify the styling of the bottom of Essay cards. */
 .card-footer {
-  background-color: var(--bs-white);
+  background-color: var(--bs-gunmetal);
   border-top: none;
 }
