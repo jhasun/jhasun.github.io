@@ -15,11 +15,15 @@
   --tf-icon-hover: var(--tf-maroon2);
   --tf-page-bg-color: var(--bs-white);
   --tf-footer-bg-color: var(--bs-gray-200);
-  --tf-projects-bg-color: var(--tf-gunmetal);
+  --tf-projects-bg-color: var(--tf-black);
 }
 
-h1,h2,h3,h4,h5 {
+h1,h3,h4,h5 {
   color: var(--tf-maroon1);
+}
+
+h2 {
+  color: var(--tf-white);
 }
 
 /* Format social media icons */
