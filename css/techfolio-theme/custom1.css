@@ -9,7 +9,7 @@
   --tf-black: #000000;
   --tf-gunmetal: #8D918D;
   --bs-font-sans-serif: "Open Sans", sans-serif;
-  --bs-link-color: var(--bs-blue);
+  --bs-link-color: var(--tf-maroon2);
   --tf-pill-bg: var(--bs-gray);
   --tf-icon-fill: var(--bs-gray);
   --tf-icon-hover: var(--tf-maroon2);
