@@ -18,11 +18,11 @@
   --tf-projects-bg-color: var(--tf-black);
 }
 
-h1,h3,h4,h5 {
+h1,h2,h4,h5 {
   color: var(--tf-maroon1);
 }
 
-h2 {
+h3 {
   color: var(--tf-white);
 }
 
