@@ -11,6 +11,8 @@ labels:
   - Javascript
 ---
 
+<img class="img-fluid" src="../img/hello-java.jpeg" alt="Picture" style="display: block; margin: 0 auto" />
+
 ## The Universe of Software Engineering
 Stepping into the world of software engineering is like stepping into a vast universe: everything is unknown, complex, and scary, yet it begs to be explored. It seems to hold no bounds, being limited to what we can see or imagine. However, with the right tools and experience we can unravel what we don't understand. At least, that's how I view software engineering.
 
