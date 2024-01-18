@@ -5,7 +5,7 @@
 :root {
   --tf-maroon1: #7D0A0A;
   --tf-maroon2: #820300;
-  --tf-maroon3: #750E21;
+  --tf-cream: #FEFBEA;
   --tf-black: #000000;
   --tf-gunmetal: #8D918D;
   --bs-font-sans-serif: "Open Sans", sans-serif;
@@ -13,17 +13,13 @@
   --tf-pill-bg: var(--bs-gray);
   --tf-icon-fill: var(--bs-gray);
   --tf-icon-hover: var(--tf-maroon2);
-  --tf-page-bg-color: var(--bs-white);
+  --tf-page-bg-color: var(--tf-cream);
   --tf-footer-bg-color: var(--bs-gray-200);
   --tf-projects-bg-color: var(--tf-black);
 }
 
-h1,h2,h3,h5 {
+h1,h2,h3,h4,h5 {
   color: var(--tf-maroon1);
-}
-
-h4 {
-  color: var(--tf-white);
 }
 
 /* Format social media icons */
