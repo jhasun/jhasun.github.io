@@ -39,6 +39,12 @@ a {
   text-decoration: none;
 }
 
+.rounded-circle {
+  border-color: var(--tf-maroon2);
+  border-style: solid;
+  border-width: 1px;
+}
+
 /* Simplify the styling of the bottom of Essay cards. */
 .card-footer {
   background-color: var(--bs-white);
