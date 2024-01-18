@@ -8,6 +8,7 @@ published: true
 labels:
   - Engineering
   - MIMO
+  - Simulation
 summary: "A team based project to design advanced communications systems and radar."
 ---
 
