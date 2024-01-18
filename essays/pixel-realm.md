@@ -19,4 +19,4 @@ The potential of being able to _virtually_ create and do anything within a compu
 
 ## Insight Into My Future
 
-
+As someone who doesn't yet have any professional experience in the field of Software Engineering, I would hope to develop some professional experience through some internship opportunities
