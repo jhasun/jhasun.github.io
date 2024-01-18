@@ -37,51 +37,40 @@
       "endDate": "2017-05-19"
     },
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaii - West Oah'u",
+      "area": "General Education",
+      "studyType": "B.S.",
+      "startDate": "2017-08-21",
+      "endDate": "2021-05-07",
+    },
+    {
+      "institution": "University of Hawaii - Manoa",
       "area": "Computer Engineering(expected Spring, 2025)",
       "studyType": "B.S.",
       "startDate": "2021-08-23",
       "endDate": "Present",
       "courses": [
+        "EE 205 Object Oriented Programming",
+        "ICS 314 Object-oriented Software Engineering",
+        "EE 361 Digital Systems and Computer Designs",
+        "EE 367 Data Structures ad Algorithms"
       ]
     }
   ],
   "work": [
     {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "company": "The Salvation Army Kroc Center - Hawai'i",
+      "position": "Lifeguard 1",
+      "website": "https://kroccenterhawaii.org/kroc-hawaii/",
+      "startDate": "2019-02-14",
+      "endDate": "2021-09-07",
+      "summary": "As a Lifeguard 1, we were in charge of the safety and health of patrons on a day-to-day basis by upholding the Salvation Army mission in the Aquatic department in a professional manner.",
       "highlights": [
-        ""
-      ]
-    },
-    {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
+        "Lifeguarding with CPR/AED for Professional Rescuers and First Aid"
       ]
     }
   ],
   "volunteer": [
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
-    },
     {
       "organization": "",
       "website": "",
