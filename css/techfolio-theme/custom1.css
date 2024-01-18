@@ -14,7 +14,7 @@
   --tf-icon-fill: var(--bs-gray);
   --tf-icon-hover: var(--tf-maroon2);
   --tf-page-bg-color: var(--tf-cream);
-  --tf-footer-bg-color: var(--bs-gray-200);
+  --tf-footer-bg-color: var(--tf-cream);
   --tf-projects-bg-color: var(--tf-black);
 }
 
