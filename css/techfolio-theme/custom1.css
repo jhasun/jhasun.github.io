@@ -52,6 +52,6 @@ a {
 
 /* Simplify the styling of the bottom of Essay cards. */
 .card-footer {
-  background-color: var(--bs-gunmetal);
+  background-color: var(--tf-gunmetal);
   border-top: none;
 }
