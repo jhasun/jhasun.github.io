@@ -31,6 +31,12 @@
   ],
   "education": [
     {
+      "institution": "Kapolei High School",
+      "area": "High School",
+      "startDate": "2013-08-05",
+      "endDate": "2017-05-19"
+    },
+    {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Engineering(expected Spring, 2025)",
       "studyType": "B.S.",
