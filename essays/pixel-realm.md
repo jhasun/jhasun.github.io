@@ -19,4 +19,6 @@ The potential of being able to _virtually_ create and do anything within a compu
 
 ## Insight Into My Future
 
-As someone who doesn't yet have any professional experience in the field of Software Engineering, I would hope to develop some professional experience through some internship opportunities
+In the past, I have gained knowledge and experience in a few languages such as Python, C/C++, and most recently Javascript. While I don't think knowing a lot of programming languages is the biggest way to evaluate yourself as a software engineer, I do think it is helpful. Another "language" I have started to work on is Swift, which is the Apple developed language to assist in app development.
+
+As someone who doesn't yet have any professional experience in the field of Software Engineering, I would hope to develop some professional experience through some internship opportunities. For the time being, I am currently taking a Software Engineering course where I hope to learn more about the field on a semi-professional to professional level as well as developing my own portfolio with projects and achievements. Aside from developing a professional persona, something else I would like to focus on is software development and app design. I would also like to gain experience in User Interface/User Experience design (UI/UX) in order to cover more front-end development.
