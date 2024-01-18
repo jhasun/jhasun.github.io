@@ -9,6 +9,7 @@
   --tf-maroon2: #820300;
   --tf-maroon3: #750E21;
   --tf-black: #000000;
+  --tf--gunmetal: #8D918D;
   --bs-font-sans-serif: "Open Sans", sans-serif;
   --bs-link-color: var(--bs-blue);
   --tf-pill-bg: var(--bs-gray);
@@ -16,7 +17,7 @@
   --tf-icon-hover: var(--tf-maroon2);
   --tf-page-bg-color: var(--bs-white);
   --tf-footer-bg-color: var(--bs-gray-200);
-  --tf-projects-bg-color: var(--tf-black);
+  --tf-projects-bg-color: var(--tf-gunmetal);
 }
 
 h1,h2,h3,h4,h5 {
