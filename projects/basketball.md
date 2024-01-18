@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/basketball.jpeg
+image: img/bball1.jpeg
 title: "Basketball Champions"
 date: 2015
 published: true
