@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: 
+image: ../img/basketball.png
 title: "Basketball Champions"
-date: 20xx
+date: 2015
 published: true
 labels:
   - Sports
