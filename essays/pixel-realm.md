@@ -12,4 +12,9 @@ labels:
   - Programming
 ---
 
-## 
+## Why Did I Take Interest in Software Engineering?
+
+
+## Insight Into My Future
+
+
