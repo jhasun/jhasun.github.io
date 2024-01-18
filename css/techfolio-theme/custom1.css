@@ -8,6 +8,7 @@
   --tf-maroon1: #7D0A0A;
   --tf-maroon2: #820300;
   --tf-maroon3: #750E21;
+  --tf-black: #000000;
   --bs-font-sans-serif: "Open Sans", sans-serif;
   --bs-link-color: var(--bs-blue);
   --tf-pill-bg: var(--bs-gray);
@@ -25,7 +26,7 @@ h1,h2,h3,h4,h5 {
 /* Format social media icons */
 .tf-social {
   display: inline-block;
-  fill: var(--tf-icon-fill);
+  fill: var(--tf-maroon2);
   height: 1.5em;
   vertical-align: -.1em;
   width: 1.5em;
@@ -38,6 +39,12 @@ h1,h2,h3,h4,h5 {
 
 a {
   text-decoration: none;
+}
+
+.rounded-circle {
+  border-color: var(--tf-black);
+  border-style: solid;
+  border-width: 1px;
 }
 
 /* Simplify the styling of the bottom of Essay cards. */
