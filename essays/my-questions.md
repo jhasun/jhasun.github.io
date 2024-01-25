@@ -3,15 +3,13 @@ layout: essay
 type: essay
 title: "Smart Questions, Good Answers"
 # All dates must be YYYY-MM-DD format!
-date: 2024-01-xx
-published: false
+date: 2024-01-25
+published: true
 labels:
   - Questions
   - Answers
   - StackOverflow
 ---
-
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
 
 ## Is there such thing as a stupid question?
 
