@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "The Art of Coding"
 # All dates must be YYYY-MM-DD format!
-date: 2023-01-12
+date: 2023-02-08
 published: true
 labels:
   - Reflection
