@@ -22,4 +22,4 @@ It wouldn't make sense for a story to invest time into defining a character just
 
 ## What Can Storytelling Teach Us?
 
-
+Implementing solid coding standards into your repertoire will definitely be beneficial to the health of your code, but is there anything else it can provide to an aspiring software engineer? I believe that programming within a coding standard can provide insight into the nooks and cranny's of that particular programming language. Take clang-tidy for the C and C++ programming languages.
