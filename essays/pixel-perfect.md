@@ -63,3 +63,5 @@ In the snippet above, almost every class assignment utilized Bootstrap's built-i
 As I mentioned before, frameworks provide structure and foundation for programmers, and the example that I gave using Bootstrap 5 is only one type out of the sea of frameworks out there. In fact, the snippet of code is exactly that, just a snippet out of an entire website. The entire code is much longer, and Bootstrap has its footprints all over it. Without the foundation, it still would have been possible to fully implement the website, but I would not want to splash around trying to develop a beautiful and interactive website for all of you out there. 
 
 A section of my recreation of the T1 website is shown below: 
+
+<img class="img-fluid" src="../img/essay-img/t1.png" width="500" height="275" alt="Picture" style="display: block; margin: 0 auto" />
