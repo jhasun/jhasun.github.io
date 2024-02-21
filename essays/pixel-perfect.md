@@ -64,4 +64,6 @@ As I mentioned before, frameworks provide structure and foundation for programme
 
 A section of my recreation of the T1 website is shown below: 
 
-<img class="img-fluid" src="../img/essay-img/t1.png" width="500" height="275" alt="Picture" style="display: block; margin: 0 auto" />
+<img class="img-fluid" src="../img/essay-img/t2.png" width="500" height="275" alt="Picture" style="display: block; margin: 0 auto" />
+
+Frameworks streamline a lot of the tedious tasks and code, allowing programmers to write more efficiently. They exist for multiple different reasons and situations, making them as flexible as the programmer using them. Having built-in operations, classes, functions, and the rest of the sort can be an invaluable tool for anyone, whether you're just getting your feet wet or you're experienced. It doesn't hurt to utilize such powerful tools, because that's what they were made for: to walk, so that we could run.
