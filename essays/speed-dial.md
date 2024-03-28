@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Rainbows on Speed Dial"
+title: "Final Project Idea: Rainbows on Speed Dial"
 # All dates must be YYYY-MM-DD format!
 date: 2024-03-28
 published: true
