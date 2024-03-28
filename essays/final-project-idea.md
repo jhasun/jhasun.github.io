@@ -23,25 +23,25 @@ Based on users interests, creates a list of candidates that are suitable for the
 
 ## Mockup Page Ideas
 <ul>
-  <li>Landing Page</>
-  <li>User Profile Page</>
-  <li>Signup Page</>
-  <li>Interests/Prompts Page</>
+  <li>Landing Page</li>
+  <li>User Profile Page</li>
+  <li>Signup Page</li>
+  <li>Interests/Prompts Page</li>
 </ul>
 
 ## Use Case Ideas
 <ul>
-  <li>New user goes to the landing page, signs up with UH Manoa ID, and sets up a profile.</>
-  <li>During profile setup, you can specify interests, major, whether you’re looking for a friend or romantic relationship.</>
-  <li>Admins can login, go to the landing page, and edit or moderate the site.</>
-  <li>Users login and return to the landing page, with results posted relating to their specifications during the signup process.</>
+  <li>New user goes to the landing page, signs up with UH Manoa ID, and sets up a profile.</li>
+  <li>During profile setup, you can specify interests, major, whether you’re looking for a friend or romantic relationship.</li>
+  <li>Admins can login, go to the landing page, and edit or moderate the site.</li>
+  <li>Users login and return to the landing page, with results posted relating to their specifications during the signup process.</li>
   <li>Users can “swipe” on other accounts to show interest, which notify the other user who can then reply if they are interested or not.</li>
 </ul>
 
 ## Beyond the Basics
 <ul>
-  <li>A feature where both parties agree to meet in public places on the campus before being allowed to chat. The times and places will be restricted for safety by the application.</>
-  <li>After the meeting, the parties can anonymously agree if they wish to continue interacting and then they unlock a messaging feature.</>
-  <li>Personality prompts to humanize users and simplify their account description</>
-  <li>Feedback or rating system: After</>
+  <li>A feature where both parties agree to meet in public places on the campus before being allowed to chat. The times and places will be restricted for safety by the application.</li>
+  <li>After the meeting, the parties can anonymously agree if they wish to continue interacting and then they unlock a messaging feature.</li>
+  <li>Personality prompts to humanize users and simplify their account description</li>
+  <li>Feedback or rating system: After</li>
 </ul>
