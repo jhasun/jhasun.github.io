@@ -11,6 +11,6 @@ labels:
   - JavaScript
 ---
 
-<img width="300px" class="rounded" style="display: block; margin: 0 auto" src="../img/smart-questions/rtfm.png">
+<img width="300px" class="rounded" style="display: block; margin: 0 auto" src="../img/essay-img/puzzle.jpeg">
 
 ## Like Pieces of a Puzzle
