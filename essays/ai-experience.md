@@ -10,9 +10,10 @@ labels:
   - Education
 ---
 
-<img class="img-fluid" src="../img/essay-img/oopsie.jpg" width="400" alt="Picture" style="display: block; margin: 0 auto" />
+<img class="img-fluid" src="../img/essay-img/ai_coach.jpeg" width="300" alt="Picture" style="display: block; margin: 0 auto" />
 
-## Introduction
+## CoachGPT
+Basketball supports a lot of one-on-one learning,
 
 ## Personal Experience with AI
 
