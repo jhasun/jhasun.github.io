@@ -11,6 +11,8 @@ labels:
   - JavaScript
 ---
 
+<img class="img-fluid" src="../img/essay-img/oopsie.jpg" width="400" alt="Picture" style="display: block; margin: 0 auto" />
+
 ## Uncoded Waters and the Guiding Lights
 In the vast sea of software development, where lines of code stretch out like uncharted waters, it is easy to find yourself lost amongst the complex and intricate systems and architecture. How do we stay afloat and navigate to our goal? Just as sailors rely on maps and navigational tools to traverse the ocean, software engineers have design patterns at their disposal to light the way through the expansive sea of code.
 
@@ -26,5 +28,3 @@ The city should have distinct districts, each with their own unique features and
 As we dive further into the city, we need eye-catching and iconic landmarks. The buildings must be sleek, the gardens and parks green with life. This would be the "Facade" pattern, which serves as the simplified and beautiful interface that conceals the complex infrastructure. A simplified interface allows for ease of use and navigation, shielding the users from the intricate workings behind the scenes. This is my favorite type of pattern, as creating elegant and sleek interfaces for users allows for creativity to flow like fountains. During the development of applications, user interface and experience are always a prominent point I try to implement.
 
 In essence, design patterns serve as the guiding principles and best practices that architects of software systems rely on in order to construct reliable and scalable applications. The use of these patterns allow developers to navigate the complexities of software development with confidence, just like the architects who have sculpted our city skylines.
-<img class="img-fluid" src="../img/essay-img/oopsie.jpeg" width="400" alt="Picture" style="display: block; margin: 0 auto" />
-
