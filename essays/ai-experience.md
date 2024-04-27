@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The Playbook of AI"
+title: "Alumni of ChatGPT"
 # All dates must be YYYY-MM-DD format!
 date: 2024-04-25
 published: true
