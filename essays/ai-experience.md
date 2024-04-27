@@ -43,21 +43,21 @@ Building off of what was said above, having peers who share similar experiences 
   
   9. Coding example e.g. “give an example of using Underscore .pluck”\
 A solid example of my use of AI (ChatGPT specifically) is the same example from the WOD topic discussed above. In the code below, I used ChatGPT to look through the Underscore library to find the following methods: .pluck(), .filter(), and .reduce(). With these methods, I was able to write two functions that operated on the given UH Manoa dataset.
-<img class="img-fluid" src="../img/essay-img/macbeth-js.png" width="400" alt="Picture" style="display: block; margin: 0 auto" />
+<img class="img-fluid" src="../img/essay-img/WOD.png" width="400" alt="Picture" style="display: block; margin: 0 auto" />
 
-  11. Explaining code\
+  10. Explaining code\
 The code I have written, seen, and read within the scope of this course has been realtively simple and easy to understand. The code became a bit harder to understand once we started to implement applications using Meteor and MongoDB, however with some time and effort to read through and test the code I was able to understand what was going on. For this specific topic, I didn't feel the need to use ChatGPT. However, outside of the scope of the course, I have used ChatGPT to explain code, specifically code realting to data structures and algorithms. This has provided useful explanation as to what is happening, but that is beside this course.
   
-  12. Writing code\
+  11. Writing code\
 As it was mentioned before, I have used ChatGPT to find methods to implement in my code, but I haven't used it to write entire code blocks in this course. Similarly to the above statements, outside of the scope of the course, I have used ChatGPT to write algorithms, and the code provided has proved to be efficient and accurately answers the problem statements I have prompted it. 
   
-  13. Documenting code\
+  12. Documenting code\
 As for documenting code, I haven't found the need to use AI to document code. Whether it's documenting the download, installation, and setup, or leaving comments and summaries about the code and its scalability, I've found that writing my own documentation would be sufficient. AI could potentially cause problems with documentation as well, since it could misinterpret the code. 
   
-  14. Quality assurance \
+  13. Quality assurance \
 Within the scope of this course, I haven't relied on AI to find errors in my code. Most of the errors and the quality of my code can be fixed through inspecting the terminal for ESLint errors or the web dev tool on Google when applications start to break. Through the use of those tools, I've been able to determine and solve the problems that I have encountered. As before, I have used ChatGPT to fix other code outside of this course, mainly for finding issues regarding segmentation faults.
   
-  15. Other uses in ICS 314 not listed above\
+  14. Other uses in ICS 314 not listed above\
 Other than the uses listed above, I can't think of other uses that I could use AI for within the scope of this course.
 
 ### III. Impact on Learning and Understanding:
