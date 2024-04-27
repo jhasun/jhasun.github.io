@@ -43,6 +43,7 @@ Building off of what was said above, having peers who share similar experiences 
   
   9. Coding example e.g. “give an example of using Underscore .pluck”\
 A solid example of my use of AI (ChatGPT specifically) is the same example from the WOD topic discussed above.
+
 ```
 let testData = _.first(uhdata, 5);
 
@@ -73,6 +74,7 @@ function hawaiianPhDs(data) {
 
 console.log(hawaiianPhDs(uhdata));
 ```
+
 In this code, I used ChatGPT to look through the Underscore library to find the following methods: .pluck(), .filter(), and .reduce(). With these methods, I was able to write two functions that operated on the given UH Manoa dataset.
 
   10. Explaining code\
