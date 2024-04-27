@@ -42,7 +42,7 @@ Similar to learning a concept, I didn't employ AI much when searching for answer
 Building off of what was said above, having peers who share similar experiences creates an easy-access resource to answers. I didn't involve myself much on the Discord when it came to asking and answering questions, however I did find myself going to those in my class as well as the professors and teaching assistants instead of AI when I needed assistance.
   
   9. Coding example e.g. “give an example of using Underscore .pluck”\
-A solid example of my use of AI (ChatGPT specifically) is the same example from the WOD topic discussed above.
+A solid example of my use of AI (ChatGPT specifically) is the same example from the WOD topic discussed above. In the code below, I used ChatGPT to look through the Underscore library to find the following methods: .pluck(), .filter(), and .reduce(). With these methods, I was able to write two functions that operated on the given UH Manoa dataset.
 
 ```
 let testData = _.first(uhdata, 5);
@@ -74,8 +74,6 @@ function hawaiianPhDs(data) {
 
 console.log(hawaiianPhDs(uhdata));
 ```
-
-In this code, I used ChatGPT to look through the Underscore library to find the following methods: .pluck(), .filter(), and .reduce(). With these methods, I was able to write two functions that operated on the given UH Manoa dataset.
 
   10. Explaining code\
 The code I have written, seen, and read within the scope of this course has been realtively simple and easy to understand. The code became a bit harder to understand once we started to implement applications using Meteor and MongoDB, however with some time and effort to read through and test the code I was able to understand what was going on. For this specific topic, I didn't feel the need to use ChatGPT. However, outside of the scope of the course, I have used ChatGPT to explain code, specifically code realting to data structures and algorithms. This has provided useful explanation as to what is happening, but that is beside this course.
