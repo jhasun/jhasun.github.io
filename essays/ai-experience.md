@@ -96,7 +96,7 @@ In my personal experience with AI as an educational tool, I have found it to be 
 I've grown to view AI as just another tool in my developers toolbox, alongside every other skill and tool I have acquired throughout my education. 
 
 ### IV. Practical Applications:
-
+It may go without saying that the continuous development of AI has brought upon a new era of technology, changing our very lifestyle as it evolves. Take the implementation of AI in vehicles. While autonomous vehicles have not been released into public hands, the project/concept has recieved a lot of attention. Facial recognition software has also evolved, with Face ID becoming a prominent feature in many applications and devices. Even non-playable characters (NPC's) in video games have become more human-like in their behavior and patterns. Artificial intelligence algorithms in marketing and social media have also provided more personalized user interactions, making media such as Instagram and Meta even more appealing.
 
 ### V. Challenges and Opportunities:
 
