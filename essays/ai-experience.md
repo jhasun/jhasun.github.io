@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Alumni of ChatGPT"
 # All dates must be YYYY-MM-DD format!
-date: 2024-04-25
+date: 2024-05-07
 published: true
 labels:
   - AI
