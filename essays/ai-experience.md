@@ -91,7 +91,8 @@ Within the scope of this course, I haven't relied on AI to find errors in my cod
 Other than the uses listed above, I can't think of other uses that I could use AI for within the scope of this course.
 
 ### III. Impact on Learning and Understanding:
-AI is a powerful tool that can be utilized for both educational and professional purposes. For software developers, it can be a coding assistant that's there with you every step of the way. 
+AI is a powerful tool that can be utilized for both educational and professional purposes. For software developers, it can be a coding assistant that's there with you every step of the way. Since the public release of AI powered tools, it has become a major topic of discussion in learning environments. \
+In my personal experience with AI as an educational tool, I have found it to be a double edged sword. On one hand, artificial intelligence provides an extensive amount of information with ease as well as an abundance of solutions to a variety of problems. On the other hand, relying on AI as an all-knowing resource to solve all your problems can lead to adverse affects on your actual understanding and skill development. I've grown to view AI as just another tool in my developers toolbox, alongside every other skill and tool I have acquired throughout my education. 
 
 ### IV. Practical Applications:
 
