@@ -54,7 +54,8 @@ function hawaiianPhDs(data) {
 
 console.log(hawaiianPhDs(uhdata));
 ```
-  5. Essays\
+  5. Essays
+Most of the essays written throughout this course allowed for a creative and personal touch to turn technically heavy concepts into relatable and interesting readings. The use of AI to write entire essays would take away that human touch and leave it as a regurgitation of some Wikipedia article. Thus, I did not employ AI to write essays. Rather, I used ChatGPT to help with making sentences more fluid. This would sometimes prove useful, providing a response that fit better in the theme of the essay. Other times, ChatGPT would provide a block of words that sounded more mechanical than human, which I ended up leaving out. In essence, I used ChatGPT and AI in general minimally in my essays since they would provide unengaging writing.
 
   6. Final project\
 
