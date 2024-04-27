@@ -88,10 +88,10 @@ As for documenting code, I haven't found the need to use AI to document code. Wh
 Within the scope of this course, I haven't relied on AI to find errors in my code. Most of the errors and the quality of my code can be fixed through inspecting the terminal for ESLint errors or the web dev tool on Google when applications start to break. Through the use of those tools, I've been able to determine and solve the problems that I have encountered. As before, I have used ChatGPT to fix other code outside of this course, mainly for finding issues regarding segmentation faults.
   
   14. Other uses in ICS 314 not listed above\
-
+Other than the uses listed above, I can't think of other uses that I could use AI for within the scope of this course.
 
 ### III. Impact on Learning and Understanding:
-
+AI is a powerful tool that can be utilized for both educational and professional purposes. 
 
 ### IV. Practical Applications:
 
