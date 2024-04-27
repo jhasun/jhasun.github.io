@@ -17,7 +17,7 @@ Artificial intelligence has been integrating itself into society within the rece
 I have used AI in class this semester in the following areas:
 
   1. Experience WODs e.g. E18\
-To experience and gain the necessary knowledge, I did not employ AI into the Experience WODs. These WODs are meant to provide the fundamentals of the specified area or skill, which means that to fully understand        them, I wanted to go through the content with minimal assistance. If I could not complete the WOD, there were enough resources supplied from the course to help me finish the task.
+To experience and gain the necessary knowledge, I did not employ AI into the Experience WODs. These WODs are meant to provide the fundamentals of the specified area or skill, which means that to fully understand        them, I wanted to go through the content with minimal assistance. If I could not complete the WOD, there were enough resources supplied from the course as well as documentation to help me finish the task.
   
   2. In-class Practice WODs\
 Similar to the experience WODs, I used the in-class practice WODs to develop problem solving skills while under time pressure. The in-class practice WODs didn't hold any weight in terms of grade, therefore I figured I could use them to purely practice my own skills and not rely on AI.
@@ -56,17 +56,17 @@ function hawaiianPhDs(data) {
 
 console.log(hawaiianPhDs(uhdata));
 ```
-  4. Essays
+  4. Essays\
 Most of the essays written throughout this course allowed for a creative and personal touch to turn technically heavy concepts into relatable and interesting readings. The use of AI to write entire essays would take away that human touch and leave it as a regurgitation of some Wikipedia article. Thus, I did not employ AI to write essays. Rather, I used ChatGPT to help with making sentences more fluid. This would sometimes prove useful, providing a response that fit better in the theme of the essay. Other times, ChatGPT would provide a block of words that sounded more mechanical than human, which I ended up leaving out. In essence, I used ChatGPT and AI in general minimally in my essays since they would provide unengaging writing.
 
   5. Final project\
 In the final project, I found that the use of AI actually hindered my progress. The project involved a lot of files that interacted with each other, with pages and components reading off of others. This proved to be difficult to pass on to ChatGPT in most cases, as I would have to pass multiple files of code into the AI, on top of figuring out what exactly to ask. For the most part, it seemed easier to look into the code and the web dev console rather than cycling code into ChatGPT. 
  
   6. Learning a concept / tutorial\
-
+When it came to learning a concept or finding some tutorial for a skill, I found it more beneficial to look up the documentation or watch Youtube videos for information. Tutorialspoint, GeeksforGeeks, and StackOverflow have been a reliable source of information for a long time. I also can find more precise answers to questions and concepts when I use sources other than AI. I have found that AI typically gives a broad and general overview of concepts since the response it gives is based on what it is prompted on. If I know the bare minimum about a concept, I wouldn't be able to provide a question or prompt that would yield useful answers from ChatGPT. However, a basic question on a Google or Youtube search can lead to extensive research, which I find to be more fulfilling.
   
   7. Answering a question in class or in Discord\
-
+Similar to learning a concept, I didn't employ AI much when searching for answers to questions posed in class or Discord. A normal Google search proved to be more than sufficient in providing answers. On top of that, since questions were open to the entire class, it was easy to seek solutions from peers who have encountered similar issues or had similar questions.
   
   8. Asking or answering a smart-question\
 
