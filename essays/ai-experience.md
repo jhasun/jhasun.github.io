@@ -17,7 +17,7 @@ Artificial intelligence has been integrating itself into society within the rece
 I have used AI in class this semester in the following areas:
 
   1. Experience WODs e.g. E18\
-To experience and gain the necessary knowledge, I did not employ AI into the Experience WODs. These WODs are meant to provide the fundamentals of the specified area or skill, which means that to fully understand        them, I wanted to go through the content with minimal assistance. If I could not complete the WOD, there were enough resources supplied from the course as well as documentation to help me finish the task.
+To experience and gain the necessary knowledge, I did not employ AI into the Experience WODs. These WODs are meant to provide the fundamentals of the specified area or skill, which means that to fully understand them, I wanted to go through the content with minimal assistance. If I could not complete the WOD, there were enough resources supplied from the course as well as documentation to help me finish the task.
   
   2. In-class Practice WODs\
 Similar to the experience WODs, I used the in-class practice WODs to develop problem solving skills while under time pressure. The in-class practice WODs didn't hold any weight in terms of grade, therefore I figured I could use them to purely practice my own skills and not rely on AI.
@@ -43,6 +43,7 @@ Building off of what was said above, having peers who share similar experiences 
   
   9. Coding example e.g. “give an example of using Underscore .pluck”\
 A solid example of my use of AI (ChatGPT specifically) is the same example from the WOD topic discussed above. In the code below, I used ChatGPT to look through the Underscore library to find the following methods: .pluck(), .filter(), and .reduce(). With these methods, I was able to write two functions that operated on the given UH Manoa dataset.
+<img class="img-fluid" src="../img/essay-img/macbeth-js.png" width="400" alt="Picture" style="display: block; margin: 0 auto" />
 
   11. Explaining code\
 The code I have written, seen, and read within the scope of this course has been realtively simple and easy to understand. The code became a bit harder to understand once we started to implement applications using Meteor and MongoDB, however with some time and effort to read through and test the code I was able to understand what was going on. For this specific topic, I didn't feel the need to use ChatGPT. However, outside of the scope of the course, I have used ChatGPT to explain code, specifically code realting to data structures and algorithms. This has provided useful explanation as to what is happening, but that is beside this course.
