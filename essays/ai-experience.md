@@ -25,7 +25,24 @@ Similar to the experience WODs, I used the in-class practice WODs to develop pro
   3. In-class WODs\
 For the actual in-class WODs, I felt well prepared due to the experience and practice WODs done prior to the real thing. This allowed for minimal use of AI, which made an appearance one time throughout the WODs. When I decided to employ AI, I used ChatGPT to assist me in WOD: Javascript 3, which involved a database of UH Manoa graduates with their respective degrees and several other metrics regarding them.\
 There were two goals: find the average number of graduates that also had awards at the time of graduation; and find the number of graduates with PhDs who were Hawaiian. In order to accomplish this task, I used the Underscore.js library to filter the database, pluck objects with specific properties, and reduce large quantities of data to one value. However, at the time of this WOD, I was not that familiar with Underscore, and looking through the entire library of methods would've left me with limited time to write the actual code. This is when I used ChatGPT, which found the methods I needed to finish my code, massively cutting down the total amount of time I spent on the problem.
-The code I was able to produce is below:
+
+  4. Essays\
+Most of the essays written throughout this course allowed for a creative and personal touch to turn technically heavy concepts into relatable and interesting readings. The use of AI to write entire essays would take away that human touch and leave it as a regurgitation of some Wikipedia article. Thus, I did not employ AI to write essays. Rather, I used ChatGPT to help with making sentences more fluid. This would sometimes prove useful, providing a response that fit better in the theme of the essay. Other times, ChatGPT would provide a block of words that sounded more mechanical than human, which I ended up leaving out. In essence, I used ChatGPT and AI in general minimally in my essays since they would provide unengaging writing.
+
+  5. Final project\
+In the final project, I found that the use of AI actually hindered my progress. The project involved a lot of files that interacted with each other, with pages and components reading off of others. This proved to be difficult to pass on to ChatGPT in most cases, as I would have to pass multiple files of code into the AI, on top of figuring out what exactly to ask. For the most part, it seemed easier to look into the code and the web dev console rather than cycling code into ChatGPT. 
+ 
+  6. Learning a concept / tutorial\
+When it came to learning a concept or finding some tutorial for a skill, I found it more beneficial to look up the documentation or watch Youtube videos for information. Tutorialspoint, GeeksforGeeks, and StackOverflow have been a reliable source of information for a long time. I also can find more precise answers to questions and concepts when I use sources other than AI. I have found that AI typically gives a broad and general overview of concepts since the response it gives is based on what it is prompted on. If I know the bare minimum about a concept, I wouldn't be able to provide a question or prompt that would yield useful answers from ChatGPT. However, a basic question on a Google or Youtube search can lead to extensive research, which I find to be more fulfilling.
+  
+  7. Answering a question in class or in Discord\
+Similar to learning a concept, I didn't employ AI much when searching for answers to questions posed in class or Discord. A normal Google search proved to be more than sufficient in providing answers. On top of that, since questions were open to the entire class, it was easy to seek solutions from peers who have encountered similar issues or had similar questions.
+  
+  8. Asking or answering a smart-question\
+Building off of what was said above, having peers who share similar experiences creates an easy-access resource to answers. I didn't involve myself much on the Discord when it came to asking and answering questions, however I did find myself going to those in my class as well as the professors and teaching assistants instead of AI when I needed assistance.
+  
+  9. Coding example e.g. “give an example of using Underscore .pluck”\
+A solid example of my use of AI (ChatGPT specifically) is the same example from the WOD topic discussed above.
 ```
 let testData = _.first(uhdata, 5);
 
@@ -56,37 +73,21 @@ function hawaiianPhDs(data) {
 
 console.log(hawaiianPhDs(uhdata));
 ```
-  4. Essays\
-Most of the essays written throughout this course allowed for a creative and personal touch to turn technically heavy concepts into relatable and interesting readings. The use of AI to write entire essays would take away that human touch and leave it as a regurgitation of some Wikipedia article. Thus, I did not employ AI to write essays. Rather, I used ChatGPT to help with making sentences more fluid. This would sometimes prove useful, providing a response that fit better in the theme of the essay. Other times, ChatGPT would provide a block of words that sounded more mechanical than human, which I ended up leaving out. In essence, I used ChatGPT and AI in general minimally in my essays since they would provide unengaging writing.
+In this code, I used ChatGPT to look through the Underscore library to find the following methods: .pluck(), .filter(), and .reduce(). With these methods, I was able to write two functions that operated on the given UH Manoa dataset.
 
-  5. Final project\
-In the final project, I found that the use of AI actually hindered my progress. The project involved a lot of files that interacted with each other, with pages and components reading off of others. This proved to be difficult to pass on to ChatGPT in most cases, as I would have to pass multiple files of code into the AI, on top of figuring out what exactly to ask. For the most part, it seemed easier to look into the code and the web dev console rather than cycling code into ChatGPT. 
- 
-  6. Learning a concept / tutorial\
-When it came to learning a concept or finding some tutorial for a skill, I found it more beneficial to look up the documentation or watch Youtube videos for information. Tutorialspoint, GeeksforGeeks, and StackOverflow have been a reliable source of information for a long time. I also can find more precise answers to questions and concepts when I use sources other than AI. I have found that AI typically gives a broad and general overview of concepts since the response it gives is based on what it is prompted on. If I know the bare minimum about a concept, I wouldn't be able to provide a question or prompt that would yield useful answers from ChatGPT. However, a basic question on a Google or Youtube search can lead to extensive research, which I find to be more fulfilling.
-  
-  7. Answering a question in class or in Discord\
-Similar to learning a concept, I didn't employ AI much when searching for answers to questions posed in class or Discord. A normal Google search proved to be more than sufficient in providing answers. On top of that, since questions were open to the entire class, it was easy to seek solutions from peers who have encountered similar issues or had similar questions.
-  
-  8. Asking or answering a smart-question\
-Building off of what was said above, having peers who share similar experiences creates an easy-access resource to answers. I didn't involve myself much on the Discord when it came to asking and answering questions, however I did find myself going to those in my class as well as the professors and teaching assistants instead of AI when I needed assistance.
-  
-  9. Coding example e.g. “give an example of using Underscore .pluck”\
-
-  
   10. Explaining code\
+The code I have written, seen, and read within the scope of this course has been realtively simple and easy to understand. The code became a bit harder to understand once we started to implement applications using Meteor and MongoDB, however with some time and effort to read through and test the code I was able to understand what was going on. For this specific topic, I didn't feel the need to use ChatGPT. However, outside of the scope of the course, I have used ChatGPT to explain code, specifically code realting to data structures and algorithms. This has provided useful explanation as to what is happening, but that is beside this course.
+  
+  12. Writing code\
+As it was mentioned before, I have used ChatGPT to find methods to implement in my code, but I haven't used it to write entire code blocks in this course. Similarly to the above statements, outside of the scope of the course, I have used ChatGPT to write algorithms, and the code provided has proved to be efficient and accurately answers the problem statements I have prompted it. 
+  
+  13. Documenting code\
 
   
-  11. Writing code\
+  14. Quality assurance \
 
   
-  12. Documenting code\
-
-  
-  13. Quality assurance \
-
-  
-  14. Other uses in ICS 314 not listed above\
+  15. Other uses in ICS 314 not listed above\
 
 
 ### III. Impact on Learning and Understanding:
