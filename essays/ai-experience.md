@@ -69,7 +69,7 @@ When it came to learning a concept or finding some tutorial for a skill, I found
 Similar to learning a concept, I didn't employ AI much when searching for answers to questions posed in class or Discord. A normal Google search proved to be more than sufficient in providing answers. On top of that, since questions were open to the entire class, it was easy to seek solutions from peers who have encountered similar issues or had similar questions.
   
   8. Asking or answering a smart-question\
-
+Building off of what was said above, having peers who share similar experiences creates an easy-access resource to answers. I didn't involve myself much on the Discord when it came to asking and answering questions, however I did find myself going to those in my class as well as the professors and teaching assistants instead of AI when I needed assistance.
   
   9. Coding example e.g. “give an example of using Underscore .pluck”\
 
