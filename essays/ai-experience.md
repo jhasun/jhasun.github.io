@@ -17,10 +17,10 @@ Artificial intelligence has been integrating itself into society within the rece
 I have used AI in class this semester in the following areas:
 
   1. Experience WODs e.g. E18\
-To experience and gain the necessary knowledge, I did not employ AI into the Experience WODs. These WODs are meant to provide the fundamentals of the specified area or skill, which means that to fully understand them, I wanted to go through the content with minimal assistance. If I could not complete the WOD, there were enough resources supplied from the course as well as documentation to help me finish the task.
+To experience and gain the necessary knowledge, I did not rely on AI for the Experience WODs. These WODs are designed to impart the fundamentals of the specified area or skill, so I aimed to engage with the content with minimal assistance to fully comprehend it. If I could not complete the WOD, there were enough resources supplied from the course as well as documentation to help me finish the task.
   
   2. In-class Practice WODs\
-Similar to the experience WODs, I used the in-class practice WODs to develop problem solving skills while under time pressure. The in-class practice WODs didn't hold any weight in terms of grade, therefore I figured I could use them to purely practice my own skills and not rely on AI.
+Similar to the experience WODs, I utilized the in-class practice WODs to hone my problem-solving skills under time pressure. These in-class practice WODs didn’t carry any weight in terms of grading; therefore, I saw them as opportunities to solely practice my own skills without relying on AI.
   
   3. In-class WODs\
 For the actual in-class WODs, I felt well prepared due to the experience and practice WODs done prior to the real thing. This allowed for minimal use of AI, which made an appearance one time throughout the WODs. When I decided to employ AI, I used ChatGPT to assist me in WOD: Javascript 3, which involved a database of UH Manoa graduates with their respective degrees and several other metrics regarding them.\
