@@ -25,4 +25,8 @@ Many software engineers have come before us, and it would be a shame to let thei
 
 Several such design patterns are the "Singleton", the "Observer", the "Module", and the "Facade". We've unkowingly used several of these in projects already, and learning more about them in full gives us more insight into their applications and how they turn our code from a run down town to a thriving cityscape.
 
-### The Chemistry Behind Project Management
+### Rome Wasn't Built in A Day
+If Rome wasn't built in a day, why should we expect our code to be built in a day? Obviously, building Rome is a much grander project than anything we've done so far (may not be the case for future projects, I mean look at Facebook), but the idea remains similar. I know we like to think we can tackle projects quickly, no matter how large the scope is, but is that the best approach? Probably not. Towards the end of the last 4 months, we've actually used a style of Agile Project Management called Issue Driven Project Management (IDPM). Basically, we took a giant project and broke it down into very small issues for us to tackle. Who would have thought that taking small steps to achieve a bigger goal would work so well!
+
+### Best of Luck in Your Future
+
