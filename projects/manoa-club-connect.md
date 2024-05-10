@@ -18,15 +18,15 @@ The University of Hawai'i at Manoa has a wide range of over 200 clubs and organi
 
 ### Landing Page
 
-<img src="img/manoa-club-connect/Updated_landing.png">
+<img src="..img/manoa-club-connect/Updated_landing.png">
 
 ### User Profile Page
 
-<img src="img/manoa-club-connect/user-profile.png">
+<img src="..img/manoa-club-connect/user-profile.png">
 
 ### Explore Club Page
 
-<img src="img/manoa-club-connect/club-categories.png">
+<img src="..img/manoa-club-connect/club-categories.png">
 
 ## Contributions
 
