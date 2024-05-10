@@ -22,6 +22,7 @@ summary: "Web application for University of Hawaii members to view the various c
 ## Experience
 
 <hr />
+
 For more information, visit the [Code Autonomy](https://github.com/code-autonomy) organization page on Github.
 * [Documentation](https://code-autonomy.github.io/)
 * [Source Code](https://github.com/code-autonomy/manoa-club-connect)
