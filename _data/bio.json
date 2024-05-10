@@ -24,11 +24,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Javascript", "Assembly", "Python" ]
+      "keywords": [ "C", "C++", "Javascript", "HTML/CSS", "Assembly", "Python", "React", "Meteor" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Linux", "Git/GitHub", "Windows" ]
+      "keywords": [ "MacOS", "Linux", "Git/GitHub", "Windows", "MongoDB", "Studio3T", "MontiAPM" ]
     }
   ],
   "education": [
