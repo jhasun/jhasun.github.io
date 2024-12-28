@@ -4,20 +4,20 @@
     "label": "Student",
     "picture": "https://github.com/jhasun.png",
     "email": "jhasun@hawaii.edu",
-    "phone": "808-xxx-xxxx",
+    "phone": "808-294-2501",
     "website": "https://jhasun.github.io",
     "summary": "I am studying for a B.S. in Computer Engineering in the Department of Electrical and Computer Engineering at the University of Hawaii. I expect to graduate in Spring, 2025.",
     "location": { "address": "91-1531 Miula Street", "postalCode": "96706", "city": "Ewa Beach", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jhasun", "url": "http://github.com/jhasun" },
-      { "network": "linkedin", "username": "Joshua Asuncion", "url": "https://www.linkedin.com/in/joshua-asuncion-193a45240/" },
+      { "network": "linkedin", "username": "Joshua Asuncion", "url": "https://www.linkedin.com/in/jhl-asuncion" },
       { "network": "instagram", "username": "joshlasun", "url": "https://www.instagram.com/joshlasun/" }
     ]
   },
   "interests": [
-    { "name": "App Development" },
+    { "name": "Computer Building" },
     { "name": "Software Engineering" },
-    { "name": "UI/UX Design" },
+    { "name": "Team Sports" },
     { "name": "Fitness"},
     { "name": "Music"}
   ],
@@ -55,11 +55,23 @@
         "EE 205 Object Oriented Programming",
         "ICS 314 Object-oriented Software Engineering",
         "EE 361 Digital Systems and Computer Designs",
-        "EE 367 Data Structures ad Algorithms"
+        "EE 367 Data Structures ad Algorithms",
+        "ECE 369 Computational Media Systems",
+        "ECE 406 Intro to Computer and Network Security",
+        "ECE 468 Intro to Operating Systems",
+        "ECE 660 Computer Architecture I"
       ]
     }
   ],
   "work": [
+    {
+      "company": "H&M",
+      "position": "Sales Associate",
+      "website": "https://www2.hm.com/en_us/index.html",
+      "startDate": "2022-06",
+      "endDate": "2023-02",
+      "summary": "As a sales associate, I was in charge of customer satisfaction throughout the store, organizing and handling items in the backroom and on the sales floor, and ensuring the safety of all customers and peers.",
+    },
     {
       "company": "The Salvation Army Kroc Center - Hawai'i",
       "position": "Lifeguard 1",
@@ -70,6 +82,22 @@
       "highlights": [
         "Lifeguarding with CPR/AED for Professional Rescuers and First Aid"
       ]
+    },
+    {
+      "company": "Mauka Lani Elementary School",
+      "position": "School Custodian",
+      "website": "https://www.maukalani.k12.hi.us/",
+      "startDate": "2017-05",
+      "endDate": "2018-12",
+      "summary": "As a school custodian, I was in charge of keeping the inside and outside of the school campus clean and sanitary on a consistent schedule, as well as specialized deep cleaning projects during summer breaks.",
+    },
+    {
+      "company": "Grace Pacific Corporation",
+      "position": "Temporary Help",
+      "website": "https://www.gracepacific.com/",
+      "startDate": "2015-11",
+      "endDate": "2017-05",
+      "summary": "As temporary help, I had to be self-motivated and independently responsible for filing invoices as well as being able to collaborate with a team when needed.",
     }
   ],
   "awards": [
@@ -78,6 +106,24 @@
       "date": "2019",
       "awarder": "University of Hawaii - West Oahu NSLS Chapter",
       "summary": "Awarded to individuals who have successfully became members of the National Society of Leadership and Success."
+    },
+    {
+      "title": "Dean's List",
+      "date": "2018",
+      "awarder": "University of Hawaii - West Oahu",
+      "summary": "Academic honor awarded to students who meet specific criteria, including a minimum GPA of 3.5 and minimum 12 credit hours.",
+    }
+    {
+      "title": "CTE Honors Recognition Certificate",
+      "date": "2017",
+      "awarder": "Kapolei High School",
+      "summary": "Academic honor awarded to students who excel in their career and technical education program.",
+    },
+    {
+      "title": "Academic Honors Recognition Certificate",
+      "date": "2017",
+      "awarder": "Kapolei High School",
+      "summary": "Academic honor awarded to students who demonstrate outstanding academic achievement.",
     }
   ],
   "references": [
